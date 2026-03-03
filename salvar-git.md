@@ -8,4 +8,12 @@
 git add .
 ```
 
-####
+#### 2. dar um nome para o save do projeto
+```
+git commit -m "aaaa"
+```
+
+#### 3. dar um nome para o save do projeto
+```
+git push
+```
